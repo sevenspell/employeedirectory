@@ -10,6 +10,12 @@ This React App project is designed to create a dynamic employee directory that a
 
 This front-end client-side only application was built using React, React Components, useState, and JSX amongst other React functionalities.
 
+•	Features sorting functions in all fields and a search function by name.
+•	Dynamically renders features and components using React.js, and random employee data using an API call.
+•	Utilizes Bootstrap CSS for design.
+•	Useful for any company’s intranet directory.
+
+
 ## Applications Used
 + React
 
