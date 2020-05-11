@@ -1,8 +1,8 @@
 # week19-employeedirectory
 
-+ Github link: https://github.com/sevenspell/week19-employeedirectory
++ Github link: https://github.com/sevenspell/employeedirectory/
 
-+ Deployed Github Page: https://sevenspell.github.io/week19-employeedirectory/
++ Deployed Github Page: https://sevenspell.github.io/employeedirectory/
 
 ## Description 
 
@@ -15,7 +15,7 @@ This front-end client-side only application was built using React, React Compone
 
 ## Usage 
 
-1. Go to deployed Github app link: https://sevenspell.github.io/week19-employeedirectory/
+1. Go to deployed Github app link: https://sevenspell.github.io/employeedirectory/
 <img src="screenshots/Screenshot1.png" width= "500" >
 2. Sort name once, and it should show data in ascending order. Click again to see data in descending order.
 <img src="screenshots/Screenshot2.png" width= "500" >
