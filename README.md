@@ -1,8 +1,8 @@
 # week19-employeedirectory
 
-+ Github link: https://github.com/sevenspell/week19-employeedirectory/
++ Github link: https://github.com/sevenspell/employeedirectory/
 
-+ Deployed Github Page: https://sevenspell.github.io/week19-employeedirectory/
++ Deployed Github Page: https://sevenspell.github.io/employeedirectory/
 
 ## Description 
 
